@@ -49,8 +49,7 @@ Geographic Insights – Region Map, City Sales, Customer Analysis
 
 Power BI Desktop
 DAX (Measures, Time Intelligence)
-Power Query (Cleaning & Transformation)
-Excel / CSV Processing
+Power Query (Cleaning & Transformation) CSV Processing
 
 👨‍💻 Developed By
 
