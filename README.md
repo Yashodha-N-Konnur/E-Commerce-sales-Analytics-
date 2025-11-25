@@ -5,19 +5,6 @@ All reports, visuals, and insights are based on a structured, cleaned dataset.
 🚀 Project Objective
 “To understand how seasonal trends, discount strategies, regional patterns, and product categories influence overall sales, profit, and customer behavior in the e-commerce business."
 
-
-PROJECT DIRECTORY
-📂 Ecommerce-Sales-Analysis
-│
-├── 📄 Ecommerce_Dashboard.pdf
-├── 📄 ECommerce_Data.csv
-├── Screenshot 1.png
-|── Screenshot 2.png
-|── Screenshot 3.png
-|──Screenshot 4.png
-|── Screenshot 5.png
-└── README.md
-
 1️⃣ Seasonal Trend Insight
 Identified a 27.7% seasonal uplift in sales from February to May, revealing May as the peak revenue month. This insight helps optimize inventory planning, marketing spend, and monthly demand forecasting.
 
